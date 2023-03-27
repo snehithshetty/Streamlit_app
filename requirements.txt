@@ -18,3 +18,5 @@ requests==2.28.1
 typing_extensions==4.4.0
 urllib3==1.26.13
 snowflake-snowpark-python==1.0.0
+-r https://raw.githubusercontent.com/user/repo/main/requirements.txt
+
