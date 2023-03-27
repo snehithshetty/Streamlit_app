@@ -3,8 +3,5 @@ asn1crypto==1.5.1
 plotly==5.11.0
 pyarrow==8.0.0
 pycparser==2.21
-requests==2.28.1
-typing_extensions==4.4.0
-urllib3==1.26.13
 -r https://raw.githubusercontent.com/snowflakedb/snowflake-connector-python/v2.7.9/tested_requirements/requirements_39.reqs
 
